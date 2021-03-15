@@ -1,6 +1,2 @@
-cd test-network/
+cd neosoft-network/
 sudo ./network.sh down
-
-cd  ../veritable/javascript/wallet
-
-sudo rm -rf *
